@@ -1,5 +1,16 @@
-# 📘 GFG 160 Days of DSA
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="150" />
+</p>
 
+<h1 align="center">I Completed the GeeksforGeeks 160 Days of Problem-Solving Challenge! 🏆</h1>
+
+<p align="center">
+  🚀 Consistency • 💡 Logic Building • 🧠 DSA Mastery  
+</p>
+
+
+
+# 📘 GFG 160 Days of DSA
 
 
 
@@ -58,10 +69,17 @@ Contributions are welcome! Feel free to:
 
 ## 📣 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shriram-lahane-12b692385/)
-- 🧑‍💻 [GitHub](https://github.com/shriram7057)
+<p align="left">
+  <a href="https://www.linkedin.com/in/shriram-lahane-12b692385/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+  </a>
 
----
+
+  <a href="https://github.com/shriram7057" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
+  </a>
+</p>
+
 
 ## 📄 License
 
