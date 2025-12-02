@@ -17,7 +17,7 @@ A structured journey through Data Structures & Algorithms inspired by GeeksforGe
 
 ## 🧠 About This Repository
 
-This repository is a personal commitment to mastering DSA through consistent practice. Each folder contains solutions to problems from the corresponding day, following the official [GeeksforGeeks 160 Days DSA Plan](https://www.geeksforgeeks.org/160-days-dsa-challenge/).
+This repository is a personal commitment to mastering DSA through consistent practice. Each folder contains solutions to problems from the corresponding day, following the official [GeeksforGeeks 160 Days DSA Plan]([https://www.geeksforgeeks.org/160-days-dsa-challenge/](https://www.geeksforgeeks.org/batch/gfg-160-problems?tab=Chapters)).
 
 ---
 
